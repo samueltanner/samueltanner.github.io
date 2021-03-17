@@ -1,0 +1,29 @@
+h2 {
+  font-family: rift, sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 1.25;
+}
+
+.big-name {
+  font-family: rift, sans-serif;
+  font-size: 48px !important;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 1.25;
+}
+
+h3 {
+  font-family: rift, sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+p {
+  font-family: acumin-pro-semi-condensed, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 18px;
+}
