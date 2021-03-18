@@ -1,3 +1,11 @@
+h1 a {
+  font-family: rift, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  font-style: italic;
+  line-height: 1.25;
+}
+
 h2 {
   font-family: rift, sans-serif;
   font-size: 42px;
@@ -21,9 +29,59 @@ h3 {
   font-style: italic;
 }
 
+h4 {
+  font-family: rift, sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+h5 {
+  font-family: rift, sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+h6 {
+  font-family: rift, sans-serif;
+  font-size: 18px;
+  font-weight: 200;
+  font-style: italic;
+}
+
 p {
   font-family: acumin-pro-semi-condensed, sans-serif;
   font-weight: 200;
   font-style: normal;
   font-size: 18px;
 }
+
+blockquote {
+  font-family: acumin-pro-semi-condensed, sans-serif;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 18px;
+}
+
+li {
+  font-family: acumin-pro-semi-condensed, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 18px;
+}
+
+#header {
+  font-family: acumin-pro-semi-condensed, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 18px;
+}
+/* ul,
+li,
+a {
+  font-family: acumin-pro-semi-condensed, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 18px;
+} */
