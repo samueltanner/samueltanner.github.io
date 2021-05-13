@@ -4068,3 +4068,8 @@ body.is-mobile.landing .wrapper.style4 {
 body.is-mobile.landing #footer {
   background-color: #1d242a;
 }
+
+.portfolio-image {
+  max-width: 100%;
+  margin-bottom: 10px;
+}
